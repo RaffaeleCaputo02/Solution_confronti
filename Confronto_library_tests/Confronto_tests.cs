@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Confronto_library_tests;
+using Confronto_library;
 
 namespace Confronto_library_tests
 {
